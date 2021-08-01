@@ -1,0 +1,9 @@
+{
+  "name": "or-noire",
+  "version": "1.0.0",
+  "description": "Bot Officiel de L'Or Noir",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
